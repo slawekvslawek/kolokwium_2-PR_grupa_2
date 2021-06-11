@@ -23,7 +23,6 @@ W tym zadaniu trzeba dodać routing do nowego komponentu, którym będzie ście�
 Komponent będzie wyświetlał element Alert: https://getbootstrap.com/docs/4.0/components/alerts/
 Dodatkowo należy dodać dwa przyciski.
 Jeden będzie sprawiał, że alert się wyświetli, a drugi, że alert zniknie.
-Naciśnięcie tego przycisku zamienia słowo "World" na Twoje imię.
 
 ## 7. Dodanie nawigacji. 3 pkt - dodanie, 1 pkt wyświetlenie
 
